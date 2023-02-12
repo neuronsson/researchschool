@@ -4,7 +4,7 @@
 1) https://github.com/neuronsson/researchschool/tree/sagittal
 2) https://github.com/neuronsson/researchschool/tree/transverse
 
-# .nii paths
+# 3-D images (.nii)
 
 Download paths: https://github.com/neuronsson/researchschool/blob/main/paths
 
