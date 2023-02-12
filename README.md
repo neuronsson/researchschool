@@ -1,8 +1,8 @@
 # Forskarskolan i klinisk psykiatri
 
 # Sagittal and transverse 2-D images
-https://github.com/neuronsson/researchschool/tree/sagittal
-https://github.com/neuronsson/researchschool/tree/transverse
+1) https://github.com/neuronsson/researchschool/tree/sagittal
+2) https://github.com/neuronsson/researchschool/tree/transverse
 
 # .nii paths
 https://github.com/neuronsson/researchschool/raw/fmri/vol0001.nii
