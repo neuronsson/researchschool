@@ -1,4 +1,4 @@
-# Decode Dr Månsson
+# Decoding Dr Månsson
 
 # Sagittal and transverse 2-D images
 1) https://github.com/neuronsson/researchschool/tree/sagittal
