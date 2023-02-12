@@ -5,6 +5,9 @@
 2) https://github.com/neuronsson/researchschool/tree/transverse
 
 # .nii paths
+
+Download paths: https://github.com/neuronsson/researchschool/blob/main/paths
+
 1) https://github.com/neuronsson/researchschool/raw/fmri/vol0001.nii
 2) https://github.com/neuronsson/researchschool/raw/fmri/vol0004.nii
 3) https://github.com/neuronsson/researchschool/raw/fmri/vol0005.nii
