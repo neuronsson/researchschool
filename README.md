@@ -28,5 +28,5 @@ Download paths: https://github.com/neuronsson/researchschool/blob/main/paths
 # Neurosynth decoder
 Go to https://neurosynth.org/decode/ and as input, past the above maps (one by one).
 
-#What did I do?
-Review the spatial maps, 1) identify typical maps realted to noise/movement, 2) decode maps and find out what I was doing in the scanner (~7 different tasks) 
+# Your task: Find out what I was doing in the scanner
+Review the spatial maps, 1) identify typical maps realted to noise/movement, 2) decode maps and try to find out what I was doing in the scanner (~7 different tasks).
