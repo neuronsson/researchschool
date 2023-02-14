@@ -1,4 +1,5 @@
 # Decoding Dr Månsson
+This is a task aimed for teaching at the Research School in Clinical Psychiatry at Karolinska Institutet, Stockholm, Sweden.
 
 # Sagittal and transverse 2-D images
 1) https://github.com/neuronsson/researchschool/tree/sagittal
