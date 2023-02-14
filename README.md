@@ -1,12 +1,14 @@
 # Decoding Dr Månsson
 This is a task aimed for teaching at the Research School in Clinical Psychiatry at Karolinska Institutet, Stockholm, Sweden.
 
+# Your task: Find out what I was doing in the scanner
+Review the spatial maps, 1) identify typical maps related to non-neural activity (e.g., noise/motion), 2) decode maps and try to find out what I was doing in the scanner (~7 different tasks).
+
 # Sagittal and transverse 2-D images
 1) https://github.com/neuronsson/researchschool/tree/sagittal
 2) https://github.com/neuronsson/researchschool/tree/transverse
 
 # 3-D images (.nii)
-
 Download paths: https://github.com/neuronsson/researchschool/blob/main/paths
 
 1) https://github.com/neuronsson/researchschool/raw/nii/vol0001.nii
@@ -28,6 +30,3 @@ Download paths: https://github.com/neuronsson/researchschool/blob/main/paths
 
 # Neurosynth decoder
 Go to https://neurosynth.org/decode/ and as input, past the above maps (one by one).
-
-# Your task: Find out what I was doing in the scanner
-Review the spatial maps, 1) identify typical maps related to non-neural activity (e.g., noise/motion), 2) decode maps and try to find out what I was doing in the scanner (~7 different tasks).
